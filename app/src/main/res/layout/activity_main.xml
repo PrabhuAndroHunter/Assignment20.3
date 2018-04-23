@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context="com.assignment.MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_View_contactList"
+        style="@style/AppTheme.RecyclerView"
+        android:clipToPadding="false"
+        tools:listitem="@layout/item_contact" />
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAction">#99DDF9FF</color>
+    <color name="mp.list.background">#1ADDF9FF</color>
+    <color name="mp.list.text.title.selected">#3C5F78</color>
+    <color name="mp.list.background.selected">#6CDDF9FF</color>
+    <color name="mp.list.text.title">#DDF9FF</color>
+</resources>
